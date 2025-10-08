@@ -141,7 +141,7 @@ if validate_gemini_key and validate_groq_key:
         if agent_metadata:
 
             full_file_path = ui_component.get_pdf_path(agent_metadata['university_name'][0])
-            st.pdf(full_file_path, height=700)
+            # st.pdf(full_file_path, height=700)
             
             try:
                 st.pdf(full_file_path, height=700)
