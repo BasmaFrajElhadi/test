@@ -1,3 +1,5 @@
+![Alt text](Downloads\Egyptian Universities Corrective RAG App.svg)
+
 # 🏛️ Egyptian Universities Corrective RAG App
 
 *A Corrective Retrieval-Augmented Generation (RAG) Application for Public Egyptian Universities*
